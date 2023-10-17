@@ -1,0 +1,13 @@
+                                 APP_USER_SEGMENTATION (Using Python)
+
+App user segmentation is the task of grouping users based on how they engage with the app. 
+It helps find retained users, find the user segment for a marketing campaign, and solve many other 
+business problems where you need to search for users based on similar characteristics.
+
+In the problem of app user segmentation, we need to group users based on how they engage with the app. 
+So to solve this problem, we need to have data about the users based on how they engage with the app.
+
+I found a dataset containing data about how users who use an app daily and the users who have 
+uninstalled the app engaged with the app. This data can be used to group users to find the retained and 
+churn users.
+
