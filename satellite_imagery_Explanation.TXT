@@ -1,0 +1,20 @@
+                                SATELLITE_IMAGERY_ANALYSIS (Using Python)
+
+Satellite images are images of the Earth that are collected by the imaging satellites which are 
+operated by the government and businesses all around the world.
+
+I will walk you through a satellite imagery analysis task over the Sundarbans forest in India.
+
+info:
+'''The Sundarbans are one of the largest mangrove areas in the delta formed by the confluence of the 
+Ganges, Brahmaputra and Meghna rivers in the Bay of Bengal. The Sundarbans Forest stretches approximately 
+10,000 km sq across India and Bangladesh, 40% of which is found in India and is home to many rare and 
+globally threatened wildlife. '''
+
+Satellite Imagery Analysis with Python
+In this task, I will be using a very small part of the Sundarbans region for the task of analyzing 
+satellite imagery with Python. I’ll be using a small portion of the Sundarbans satellite data that is 
+acquired using the Sentinel-2 satellite.
+
+The dataset I am using is in the form of 954×298 pixels, with 12 bands with a spectral resolution 
+varying from 10 to 60 meters.
